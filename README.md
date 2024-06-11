@@ -4,7 +4,7 @@ Group Members - Shipra Gupta, Mimi George, Katie Hong, Fiza Tariq, Nivetha Sunda
 
 **Analysis**
 
-In this activity, we use SparkSQL to query through our Northwind Database. The ERD was procured from this [source](https://docs.yugabyte.com/preview/sample-data/northwind/). In our notebook, you'll find...
+In this project, we use SparkSQL to query through our Northwind Database. The ERD was procured from this [source](https://docs.yugabyte.com/preview/sample-data/northwind/). In our notebook, you'll find...
 1. A list of all countries that have orders shipped to.
 2. A total of 830 orders places.
 3. A table of total orders shipped to different countries.
